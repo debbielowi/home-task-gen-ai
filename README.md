@@ -1,6 +1,6 @@
 # home-task-gen-ai
 
-This GitHub repository contains two files:
+This GitHub repository contains two code files:
 
 1) Home task for Data Scientist Deborah Lowi.ipynb
 2) taskresults.json
